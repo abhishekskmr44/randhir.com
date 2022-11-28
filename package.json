@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/abhishekskmr44/randhir.com/issues"
   },
-  "homepage": "https://github.com/abhishekskmr44/randhir.com#readme"
+  "homepage": "https://github.com/abhishekskmr44/randhir.com#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
